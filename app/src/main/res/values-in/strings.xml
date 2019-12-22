@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">"Tampilan Navigasi dan Lokalisasi "</string>
+    <string name="account">Akun</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="history">Riwayat</string>
+    <string name="home">Rumah</string>
+    <string name="info">info</string>
+    <string name="kotlin_android_developer">"Pengembang Android  "</string>
+    <string name="nanda_adisaputra">Nanda Adisaputra</string>
+    <string name="round_2">"Putaran 2 Marvind  "</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NavigationViewAndLocalization</string>
+    <string name="round_2">Round 2 Marvind</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="info">Info</string>
+    <string name="nanda_adisaputra">Nanda Adisaputra</string>
+    <string name="kotlin_android_developer">Android Developer</string>
+    <string name="account">Account</string>
+    <string name="change_language_settings">Change Language Settings</string>
+</resources>
